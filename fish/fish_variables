@@ -1,3 +1,5 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR fish_color_autosuggestion:c9a3ad
 SETUVAR fish_greeting:
+SETUVAR fish_user_paths:/home/bakayaro/\x2ecargo/bin\x1e/home/bakayaro/\x2elocal/bin
